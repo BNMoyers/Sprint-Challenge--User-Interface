@@ -33,14 +33,10 @@ body {
 }
 ol, ul {
     list-style: none;
-    
-
 }
 nav a{
 text-decoration: none;
-    color: black;
-    
-   
+    color: black; 
 }
 blockquote, q {
 	quotes: none;
@@ -75,12 +71,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 2%;
     font-size: 14px;
-
-    
-    
-    
 }
 header{
     display: flex;
@@ -88,7 +79,7 @@ header{
     align-content: center;
     margin: 25px 0px;
 }
-)
+
 p {
     line-height: 1.4;
 }

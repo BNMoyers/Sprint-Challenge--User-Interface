@@ -233,7 +233,15 @@ p {
 .bottom-content .text-container:last-child {
     padding-right: 0;
 }
-
+.about-page{
+display: flex;
+flex-wrap: wrap;
+}
+section{
+    border-bottom: 1px dashed black;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
 footer {
     width: 100%;
     background: black;
